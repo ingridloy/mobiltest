@@ -1,0 +1,131 @@
+/* iPhone 7 */
+
+position: relative;
+width: 375px;
+height: 667px;
+
+background-image: url(https://s-media-cache-ak0.pinimg.com/originals/46/f2/c9/46f2c9f6b02eb4d5d54057bee0e96477.jpg), 
+
+
+/* Rectangle */
+.content-box-1{
+position: absolute;
+width: 271px;
+height: 329px;
+left: 29px;
+top: 37px;
+
+background: #000000;
+background-blend-mode: darken;
+}
+
+/* INGRID */
+h1{
+position: absolute;
+width: 227px;
+height: 85px;
+left: 51px;
+top: 66px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+line-height: normal;
+font-size: 65px;
+
+color: #FFFFFF;
+}
+
+/* Loy */
+h2{
+
+position: absolute;
+width: 227px;
+height: 163px;
+left: 51px;
+top: 151px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+line-height: normal;
+font-size: 130px;
+
+color: #FFFFFF;
+}
+/* proyectos */
+.proyectos{
+
+position: absolute;
+width: 171px;
+height: 43px;
+left: 29px;
+top: 438px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+line-height: normal;
+font-size: 36px;
+
+color: #000000;
+}
+
+/* travesias */
+.travesias{
+position: absolute;
+width: 163px;
+height: 39px;
+left: 29px;
+top: 494px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+line-height: normal;
+font-size: 36px;
+
+color: #000000;
+}
+
+/* acerca de mi */
+.acerca{
+position: absolute;
+width: 225px;
+height: 34px;
+left: 29px;
+top: 546px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+line-height: normal;
+font-size: 36px;
+
+color: #000000;
+}
+
+/* contacto */
+.contacto{
+	
+
+position: absolute;
+width: 169px;
+height: 40px;
+left: 31px;
+top: 593px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+line-height: normal;
+font-size: 36px;
+
+color: #000000;
+}
+.cambioColor {
+  color:black;
+}
+.cambioColor:hover{
+  color:#CFB514;
+}
